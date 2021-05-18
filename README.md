@@ -1,7 +1,7 @@
 <--!
 # Command Line Applications in Rust
 -->
-# Rust によるコマンドラインアプリケーション
+# Rust によるコマンドラインアプリケーション開発
 <--!
 This repo contains the CLAiR, the [Command Line Applications in Rust][clair] book.
 It is written and updated by the [Rust CLI working group][wg].
@@ -12,5 +12,5 @@ It is written and updated by the [Rust CLI working group][wg].
 [wg]: https://github.com/rust-cli/meta
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjMyOTQwXX0=
+eyJoaXN0b3J5IjpbLTEzMDc2NzE4MTNdfQ==
 -->

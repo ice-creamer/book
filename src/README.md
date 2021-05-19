@@ -10,7 +10,7 @@ Command line applications are also a great way to get started with learning Rust
 or to introduce Rust to your team!
 -->
 Rust言語は静的にコンパイルされる、優れたツールと急成長を続けるエコシステムを備えた高速処理可能なプログラミング言語です。
-そのため、Rust言語はコマンドラインアプリケーションを開発するのに最適です。
+そのため、Rust言語はコマンドラインアプリケーションの開発に向いています。
 コマンドラインアプリケーションは、小さくてポータブル、かつ素早く実行できることが求められます。
 コマンドラインアプリケーション開発は、Rust言語を学び始めるのにも、チームにRust言語を導入するのにも最適な方法です。
 <--!
@@ -21,7 +21,7 @@ There are many aspects to this topic, though,
 that often only reveal themselves later on.
 -->
 単純なCLI（コマンドラインインターフェース）を使うプログラムを開発することは、プログラミング言語に慣れていない初心者がプログラミングに慣れるのに最適な練習方法です。
-それでいながら、このテーマには様々な側面があり、後から初めて気づかされることも多くあります。
+それでいながら、このテーマは様々な要素を含んでおり、後から初めて気づかされることも多くあります。
 <--!
 This book is structured like this:
 We start with a quick tutorial,
@@ -33,8 +33,8 @@ on some of these aspects.
 -->
 この本の構成は次の通りです：
 まずは簡単な練習問題から始まり、最終的に実用的なCLIツールを開発することができます。
-Rust言語の中核となる概念やCLIアプリケーションの主な側面に触れることができます
-その次の章では、それらの側面のいくつかを掘り下げて説明します。
+Rust言語の中核となる概念やCLIアプリケーションの主な要素に触れることができます
+その次の章では、それらの要素のいくつかを掘り下げて説明します。
 <--!
 One last thing before we dive right into CLI applications:
 If you found an error in this book

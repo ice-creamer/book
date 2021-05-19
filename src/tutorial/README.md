@@ -1,5 +1,9 @@
+<--!
 # Learning Rust by Writing a Command Line App in 15 Minutes
+-->
+# １５分で学ぶ、Rust言語によるコマンドラインアプリケーション開発
 
+<--!
 This tutorial will guide you through writing
 a CLI (command line interface) application
 in [Rust].
@@ -10,12 +14,17 @@ After that, we'll continue to tweak our program
 until we reach a point where we can ship our little tool.
 
 [Rust]: https://rust-lang.org/
+-->
+このチュートリアルでは、CLI（コマンドラインインターフェース）をRust言語で書いてみましょう。
+プログラムを走らせるまでに、およそ15分かかります（1.3章あたり）
+その後は、このプログラムを小規模な製品としてリリースできるまで、調整を重ねていきます。
 
+<--!
 You’ll learn all the essentials about how to get going,
 and where to find more information.
 Feel free to skip parts you don't need to know right now
 or jump in at any point.
-
+-->
 <aside>
 
 **Prerequisites:**
